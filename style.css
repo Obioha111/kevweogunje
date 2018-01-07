@@ -1,0 +1,76 @@
+@charset "utf-8";
+#Master{width: 1280px; margin-left:auto; margin-right:auto}
+#Background {
+	height: 720px;
+	width: 1280px;
+	background-image: url(home/kevwe.gif);
+}
+.Content {
+	background-color: #FFF;
+	height: 615px;
+	width: 1000px;
+	left: 130px;
+	position: relative;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+	padding-top: 2px;
+	overflow: auto;
+}
+.imagecontroller2 {
+	background-color: #FFF;
+	float: right;
+	height: auto;
+	width: 323px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+.Imagecontroller {
+	float: left;
+	height: auto;
+	width: 323px;
+	background-color: #FFF;
+	padding-right: 4px;
+	padding-top: 10px;
+}
+.VideoControl {
+	background-color: #FFF;
+	float: left;
+	height: auto;
+	width: 483px;
+	margin-right: 8px;
+	text-align: left;
+}
+
+
+.HeadText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.TTextHead {
+	text-align: center;
+}
+table {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+
+.image {
+	float: left;
+	margin-right: 15px;
+}
+.text {
+	text-align: justify;
+	font-family: "monotype Corsiva", "times New Roman", Arial;
+	font-size: 24px;
+}
+#Footer {
+	height: 50px;
+	width: 1280px;
+	background-color: #999;
+}
